@@ -1,6 +1,6 @@
 ## Olá! Eu sou Vanderson 👋
 
-- 🔭 Hoje eu trabalho front-end
+- 🔭 Hoje eu trabalho com front-end
 - 🌱 Estudando HTML e CSS
 - 📫 Contato: jordyabc2004@gmail.com
 
